@@ -157,6 +157,6 @@ public class VarastoTest {
         
         double ote = varasto.otaVarastosta(18);
         
-        assertEquals(80, ote, vertailuTarkkuus);
+        assertEquals(8, ote, vertailuTarkkuus);
     }
 }
